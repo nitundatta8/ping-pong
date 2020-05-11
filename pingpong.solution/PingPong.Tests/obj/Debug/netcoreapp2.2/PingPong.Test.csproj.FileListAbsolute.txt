@@ -1,0 +1,17 @@
+c:\Users\maili\github\ping-pong-c\PingPong.Solution\PingPong.Tests\obj\Debug\netcoreapp2.2\PingPong.Test.csprojAssemblyReference.cache
+c:\Users\maili\github\ping-pong-c\PingPong.Solution\PingPong.Tests\obj\Debug\netcoreapp2.2\PingPong.Test.csproj.CoreCompileInputs.cache
+c:\Users\maili\github\ping-pong-c\PingPong.Solution\PingPong.Tests\obj\Debug\netcoreapp2.2\PingPong.Test.AssemblyInfoInputs.cache
+c:\Users\maili\github\ping-pong-c\PingPong.Solution\PingPong.Tests\obj\Debug\netcoreapp2.2\PingPong.Test.AssemblyInfo.cs
+C:\Users\maili\github\ping-pong-c\PingPong.Solution\PingPong.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\maili\github\ping-pong-c\PingPong.Solution\PingPong.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\maili\github\ping-pong-c\PingPong.Solution\PingPong.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\maili\github\ping-pong-c\PingPong.Solution\PingPong.Tests\bin\Debug\netcoreapp2.2\PingPong.Test.deps.json
+C:\Users\maili\github\ping-pong-c\PingPong.Solution\PingPong.Tests\bin\Debug\netcoreapp2.2\PingPong.Test.runtimeconfig.json
+C:\Users\maili\github\ping-pong-c\PingPong.Solution\PingPong.Tests\bin\Debug\netcoreapp2.2\PingPong.Test.runtimeconfig.dev.json
+C:\Users\maili\github\ping-pong-c\PingPong.Solution\PingPong.Tests\bin\Debug\netcoreapp2.2\PingPong.Test.dll
+C:\Users\maili\github\ping-pong-c\PingPong.Solution\PingPong.Tests\bin\Debug\netcoreapp2.2\PingPong.Test.pdb
+C:\Users\maili\github\ping-pong-c\PingPong.Solution\PingPong.Tests\bin\Debug\netcoreapp2.2\PingPong.dll
+C:\Users\maili\github\ping-pong-c\PingPong.Solution\PingPong.Tests\bin\Debug\netcoreapp2.2\PingPong.pdb
+C:\Users\maili\github\ping-pong-c\PingPong.Solution\PingPong.Tests\obj\Debug\netcoreapp2.2\PingPong.Test.csproj.CopyComplete
+C:\Users\maili\github\ping-pong-c\PingPong.Solution\PingPong.Tests\obj\Debug\netcoreapp2.2\PingPong.Test.dll
+C:\Users\maili\github\ping-pong-c\PingPong.Solution\PingPong.Tests\obj\Debug\netcoreapp2.2\PingPong.Test.pdb
